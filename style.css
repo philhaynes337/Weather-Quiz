@@ -1,0 +1,67 @@
+body {
+	background-color: #2A2B2A;
+}
+
+header, main, footer {
+	background-color: #706C61;
+	width: auto;
+	border-radius: 25px;
+	height: auto;
+	padding: 20px;
+	margin: 20px;
+}
+
+
+
+
+/* H1 - H6 Code */
+
+h1 {
+	color: #F8F4E3;
+	font-size: 100px;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;
+	margin: auto;
+}
+
+h2 {
+		color: #F8F4E3;
+	font-size: 25px;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;
+	margin: auto;
+
+}
+
+p {
+	color: #F8F4E3;
+	font-size: 25px;
+	font-weight: 10px;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+.btn-start {
+	display: block;
+	background-color: #FF8966;
+	border-radius: 25px;
+	height: 50px;
+	width: 100px;
+	justify-content: center;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+.centerit {
+	display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+@media all and (min-width: 600px) {
+
+
+
+
+}
